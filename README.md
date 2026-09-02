@@ -302,14 +302,23 @@ Current areas of practical development:
 ---
 
 
-
 # 📊 GITHUB COMMAND CENTER
 
 <p align="center">
-  <img src="./assets/github-command-center.svg" alt="Live GitHub Command Center" width="100%"/>
+
+<a href="https://github.com/SAHALMCPVR">
+<img src="https://img.shields.io/github/followers/SAHALMCPVR?style=for-the-badge&logo=github&label=FOLLOWERS"/>
+</a>
+
+<a href="https://github.com/SAHALMCPVR?tab=repositories">
+<img src="https://img.shields.io/github/repos/SAHALMCPVR?style=for-the-badge&logo=github&label=REPOSITORIES"/>
+</a>
+
+<a href="https://github.com/SAHALMCPVR">
+<img src="https://img.shields.io/github/stars/SAHALMCPVR?style=for-the-badge&logo=github&label=STARS"/>
+</a>
+
 </p>
-
-
 ---
 
 # 🎯 2026 OBJECTIVES
