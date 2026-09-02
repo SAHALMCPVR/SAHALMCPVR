@@ -1,556 +1,342 @@
-# 🛰️ MUHAMMED SAHAL MC
+# 👋 Hey, I'm Muhammed Sahal MC
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=DATA+SCIENCE+%26+AI+ENGINEERING;Python+%7C+Machine+Learning+%7C+Generative+AI;Building+Ideas+Into+Technology;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Data+Science+%26+AI+Engineering;Python+%7C+Machine+Learning+%7C+Generative+AI;Building+Ideas+Into+Technology;Always+Learning.+Always+Building." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:083344,100:06b6d4&height=130&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:083344,100:06b6d4&height=180&section=header" width="100%"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Data%20Science-0F172A?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0F172A?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=googlecloud&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Azure-0F172A?style=for-the-badge&logo=microsoftazure&logoColor=00F7FF"/>
+</p>
 
-`🧠 DATA SCIENCE`   `🤖 AI / ML`   `🐍 PYTHON`   `✨ GENERATIVE AI`   `☁️ AZURE`
-
+<p align="center">
+  <a href="https://github.com/SAHALMCPVR">
+    <img src="https://img.shields.io/github/followers/SAHALMCPVR?label=Followers&style=for-the-badge&logo=github"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=SAHALMCPVR&label=Profile%20Views&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🖥️ SYSTEM BOOT
+## 🧠 About Me
+
+I'm **Muhammed Sahal MC**, an aspiring **Data Scientist & AI Engineer** passionate about turning ideas into practical technology.
+
+My main interests are:
+
+```text
+🐍 Python
+📊 Data Science
+🤖 Artificial Intelligence
+🧠 Machine Learning
+✨ Generative AI
+☁️ Microsoft Azure
+💻 Software Development
+```
+
+I'm currently developing my skills in **Data Science & AI Engineering**, while gaining practical experience through projects and internship work.
+
+> **Think with data. Build with code. Experiment with AI.**
+
+---
+
+## ⚡ What I'm Working On
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│                     SAHAL // SYSTEM                         │
+│                    CURRENT FOCUS                              │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  > Initializing neural workspace...                         │
-│  > Loading Data Science modules...                           │
-│  > Connecting Python environment...                          │
-│  > Synchronizing AI research...                              │
-│  > Loading Azure knowledge base...                           │
-│  > Establishing GitHub connection...                        │
-│                                                              │
-│  [████████████████████████████████████] 100%                │
-│                                                              │
-│  STATUS       : 🟢 ONLINE                                   │
-│  CORE         : DATA SCIENCE + AI                            │
-│  MODE         : LEARNING / BUILDING                          │
-│  MISSION      : BUILD • EXPERIMENT • IMPROVE                │
+│  🐍 Python              ████████████████████░░               │
+│  📊 Data Science        ████████████████░░░░░               │
+│  🤖 Machine Learning    ██████████████░░░░░░░               │
+│  ✨ Generative AI       ████████████░░░░░░░░               │
+│  ☁️ Azure               █████████████████░░░░               │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
+### 🎯 Current Mission
 
-# 👨‍💻 ABOUT THE OPERATOR
-
-I'm an aspiring **Data Scientist and AI Engineer** interested in **Python, Artificial Intelligence, Machine Learning, Data Science, and Generative AI**.
-
-Currently, I'm pursuing **Data Science & AI Engineering** while gaining practical experience as a **Data Science Analytics Intern**.
-
-I enjoy experimenting with technology, building practical applications, exploring AI-assisted development, and continuously strengthening my technical foundations.
-
-> **🧠 Think with data. Build with code. Experiment with AI.**
+* Strengthen Python fundamentals
+* Build practical Data Science projects
+* Explore Machine Learning
+* Learn Generative AI
+* Develop real-world applications
+* Improve software engineering practices
+* Grow toward **AI Engineering**
 
 ---
 
-# 🛰️ CURRENT MISSION
+# 🚀 Featured Projects
 
-### `DATA SCIENCE ANALYTICS INTERN`
+## 🏥 ClinicMart
+
+**B2B Healthcare Procurement & Inventory Platform**
+
+A healthcare-focused application designed around procurement and inventory workflows.
+
+### 🛠️ Built With
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Riverpod-0F172A?style=for-the-badge&logo=flutter&logoColor=42A5F5"/>
+<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
+</p>
+
+### ✨ Highlights
+
+* 📱 Healthcare procurement workflows
+* 📦 Inventory management
+* 🔄 Riverpod state management
+* 🗺️ OpenStreetMap geocoding
+* 🤖 AI-assisted development
+* ⚡ Rapid UI prototyping
+
+---
+
+## 🥗 FreshSave
+
+**Smart Kitchen & Food Waste Reduction Platform**
+
+A project focused on helping households make better use of ingredients already available in their kitchen.
+
+<p>
+<a href="https://freshsave-ai.vercel.app/">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
+</a>
+<a href="https://github.com/SAHALMCPVR/FreshSave">
+<img src="https://img.shields.io/badge/SOURCE%20CODE-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+> **Cook smarter. Waste less.**
+
+---
+
+## 🔳 QR Code Generator
+
+A practical Python utility designed to generate QR codes through automation.
+
+```text
+PYTHON
+   ↓
+AUTOMATION
+   ↓
+QR GENERATION
+   ↓
+PRACTICAL UTILITY
+```
+
+---
+
+# 🧰 Technology Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css"/>
+</p>
+
+### 🤖 AI / Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+</p>
+
+```text
+Data Science
+Machine Learning
+Artificial Intelligence
+Generative AI
+Data Analysis
+Jupyter Notebook
+```
+
+### 📱 Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,django,fastapi"/>
+</p>
+
+### 🗄️ Databases & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,nodejs,express"/>
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,git,github,vscode,androidstudio"/>
+</p>
+
+---
+
+# 🏆 Certifications
+
+### Microsoft Azure
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PL--900-Power%20Platform%20Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SC--900-Security%20Compliance%20%26%20Identity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
+
+| Certification | Area                                         |
+| ------------- | -------------------------------------------- |
+| **AZ-900**    | Microsoft Azure Fundamentals                 |
+| **AI-900**    | Azure AI Fundamentals                        |
+| **DP-900**    | Azure Data Fundamentals                      |
+| **PL-900**    | Power Platform Fundamentals                  |
+| **SC-900**    | Security, Compliance & Identity Fundamentals |
+
+---
+
+# 💼 Experience
+
+### Data Science Analytics Intern
 
 **SOS School of Skills, Calicut**
-`July 2026 – Present`
 
-<table>
-<tr>
-<td width="50%">
+`2026 – Present`
 
-### 🧠 LEARNING CORE
+My current focus includes:
 
 * 🐍 Python programming
-* 🧩 Problem solving
 * 📊 Data Science foundations
+* 🧩 Problem solving
 * 📓 Jupyter Notebook
-* 💻 VS Code
-
-</td>
-<td width="50%">
-
-### ⚙️ ENGINEERING CORE
-
+* 💻 Development workflows
 * 🌿 Git & GitHub
-* 📚 Coding standards
-* 📝 Documentation
-* 🤝 Technical discussions
-* 👥 Peer learning
-
-</td>
-</tr>
-</table>
+* 📝 Technical documentation
+* 🤝 Collaboration & peer learning
 
 ---
 
-# 🚀 FEATURED PROJECTS
-
-## 🏥 CLINICMART
-
-### `B2B HEALTHCARE PROCUREMENT & INVENTORY`
-
-A B2B healthcare application focused on procurement and inventory workflows.
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-### 📱 BUILD
-
-**Flutter**
-
-Application development
-
-</td>
-
-<td width="33%" align="center">
-
-### 🔄 STATE
-
-**Riverpod**
-
-State management
-
-</td>
-
-<td width="33%" align="center">
-
-### 🗺️ LOCATION
-
-**OpenStreetMap**
-
-Geocoding
-
-</td>
-</tr>
-</table>
-
-### ⚡ PROJECT HIGHLIGHTS
+# 🧬 My Learning Path
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  📱 Healthcare procurement & inventory application   │
-│                                                      │
-│  🔄 Riverpod state management                       │
-│                                                      │
-│  🗺️ OpenStreetMap geocoding                         │
-│                                                      │
-│  🤖 AI-assisted development                         │
-│                                                      │
-│  ⚡ Rapid application prototyping                    │
-│                                                      │
-│  🧹 AI-assisted boilerplate & UI refactoring        │
-│                                                      │
-└──────────────────────────────────────────────────────┘
-```
-
-I used **ChatGPT, Claude and other generative-AI tools** to accelerate prototyping, generate repetitive code, and refactor complex UI layouts.
-
----
-
-## 🔳 QR CODE GENERATOR
-
-A practical development project focused on generating QR codes.
-
-<p align="center">
-
-`PYTHON`   `AUTOMATION`   `UTILITY`
-
-</p>
-
----
-
-## 🧪 MORE EXPERIMENTS
-
-My GitHub also contains development experiments and projects including:
-
-* `Visual-Studio`
-* `SBCBglqbr`
-* `QR-Code-Generator`
-
-The goal isn't simply to collect repositories — it's to **experiment, learn, and turn each project into a better understanding of technology.**
-
----
-
-# 🌌 NEURAL UNIVERSE
-
-### `MY TECHNOLOGY ECOSYSTEM`
-
-<p align="center">
-
-```text
-                         ✨ GENERATIVE AI ✨
-                                │
-                                │
-                     ┌──────────▼──────────┐
-                     │   ARTIFICIAL        │
-                     │   INTELLIGENCE      │
-                     └──────────┬──────────┘
-                                │
-                   ┌────────────┴────────────┐
-                   │                         │
-                   ▼                         ▼
-             🤖 MACHINE                 ☁️ AZURE
-               LEARNING
-                   │                         │
-                   └────────────┬────────────┘
-                                │
-                                ▼
-                         📊 DATA SCIENCE
-                                │
-                                │
-                         ┌──────▼──────┐
-                         │   PYTHON    │
-                         └──────┬──────┘
-                                │
-                                ▼
-                    💻 SOFTWARE DEVELOPMENT
-                                │
-                                ▼
-                         🌿 GITHUB / GIT
-```
-
-</p>
-
-### 🧬 HOW THE SYSTEM CONNECTS
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-🐍
-**PYTHON**
-
-</td>
-<td align="center" width="20%">
-
-📊
-**DATA**
-
-</td>
-<td align="center" width="20%">
-
-🤖
-**AI / ML**
-
-</td>
-<td align="center" width="20%">
-
-✨
-**GENAI**
-
-</td>
-<td align="center" width="20%">
-
-☁️
-**AZURE**
-
-</td>
-</tr>
-</table>
-
-> **Python is the foundation. Data is the fuel. AI is the direction.**
-
----
-
-# 🗺️ LEARNING JOURNEY
-
-<p align="center">
-
-```text
-       2023                         2026                         NOW
-         │                           │                            │
-         ▼                           ▼                            ▼
-   ┌─────────────┐            ┌─────────────┐             ┌─────────────┐
-   │     BCA     │            │  GRADUATION │             │ DATA SCIENCE│
-   │ AI / ML /   │───────────▶│ AI / ML /   │────────────▶│     & AI    │
-   │ Robotics /  │            │ Robotics /  │             │ ENGINEERING │
-   │     IoT     │            │     IoT     │             │             │
-   └─────────────┘            └─────────────┘             └──────┬──────┘
-                                                                  │
-                                                                  ▼
-                                                           ┌─────────────┐
-                                                           │ DATA SCIENCE│
-                                                           │  INTERNSHIP │
-                                                           └──────┬──────┘
-                                                                  │
-                                                                  ▼
-                                                           ┌─────────────┐
-                                                           │   AI / ML   │
-                                                           │   ENGINEER   │
-                                                           └─────────────┘
-```
-
-</p>
-
-### 📍 JOURNEY STATUS
-
-| Stage               | Focus                                    |
-| ------------------- | ---------------------------------------- |
-| 🎓 `2023 – 2026`    | BCA — AI, ML, Robotics & IoT             |
-| 🚀 `2026`           | Data Science & AI Engineering            |
-| 💼 `2026 – Present` | Data Science Analytics Internship        |
-| 🔬 `NOW`            | Python • Data Science • AI • ML • GenAI  |
-| 🎯 `NEXT`           | Stronger AI / ML & Data Science projects |
-
-Your education and current Data Science & AI program are based on your CV.
-
----
-
-# 🏆 CERTIFICATION VAULT
-
-### `MICROSOFT AZURE MODULES`
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0EA5E9?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-06B6D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-</p>
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🤖 AI
-
-**Microsoft Azure AI Fundamentals**
-
-</td>
-<td align="center" width="50%">
-
-### 📊 DATA
-
-**Microsoft Azure Data Fundamentals**
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ☁️ CLOUD
-
-**Microsoft Azure Fundamentals**
-
-</td>
-<td align="center">
-
-### ⚡ POWER PLATFORM
-
-**Microsoft Power Platform Fundamentals**
-
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
-
-### 🔐 SECURITY
-
-**Microsoft Security, Compliance & Identity Fundamentals**
-
-</td>
-</tr>
-</table>
-
-These are the Microsoft certifications listed in my CV.
-
----
-
-# 🧠 AI LAB
-
-### `EXPERIMENTATION ENVIRONMENT`
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🟢 CHATGPT
-
-**Prototyping**
-
-Code assistance
-Idea exploration
-
-</td>
-
-<td align="center" width="33%">
-
-### 🟠 CLAUDE
-
-**Development**
-
-Code generation
-Refactoring
-
-</td>
-
-<td align="center" width="33%">
-
-### 🔵 GEMINI
-
-**Exploration**
-
-Research
-AI experimentation
-
-</td>
-</tr>
-</table>
-
-> AI isn't a replacement for understanding the fundamentals — it's a tool I use to **learn faster, experiment faster, and build better**.
-
----
-
-# 🌱 BEYOND CODE
-
-Technology isn't only about syntax.
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🤝
-
-**TEAMWORK**
-
-Learn together.
-Build together.
-
-</td>
-
-<td align="center" width="25%">
-
-### 👑
-
-**LEADERSHIP**
-
-Take responsibility.
-Move projects forward.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⏱️
-
-**TIME**
-
-Plan better.
-Execute consistently.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧩
-
-**PROBLEM SOLVING**
-
-Understand the problem.
-Then build the solution.
-
-</td>
-</tr>
-</table>
-
-These soft skills are based on the skills listed in my CV.
-
----
-
-# 🔬 CURRENT RESEARCH
-
-```text
-                    ┌─────────────────────┐
-                    │     PYTHON          │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   DATA SCIENCE      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ MACHINE LEARNING    │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │ ARTIFICIAL          │
-                    │ INTELLIGENCE        │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  GENERATIVE AI      │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   AI ENGINEERING    │
-                    └─────────────────────┘
+                  ┌───────────────┐
+                  │      BCA      │
+                  │ AI / ML / IoT │
+                  └───────┬───────┘
+                          │
+                          ▼
+              ┌─────────────────────┐
+              │ Data Science &      │
+              │ AI Engineering     │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │   DATA SCIENCE      │
+              │    INTERNSHIP       │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │ MACHINE LEARNING    │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │ ARTIFICIAL          │
+              │ INTELLIGENCE        │
+              └──────────┬──────────┘
+                         │
+                         ▼
+              ┌─────────────────────┐
+              │    AI ENGINEER      │
+              └─────────────────────┘
 ```
 
 ---
 
-# 📊 GITHUB COMMAND CENTER
+# 📊 GitHub Analytics
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SAHALMCPVR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAHALMCPVR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SAHALMCPVR&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAHALMCPVR&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" height="180"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAHALMCPVR&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
 ---
 
-# 🐍 CONTRIBUTION MATRIX
+# 🐍 Contribution Activity
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/saint1744/saint1744/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
-
+  <img src="https://raw.githubusercontent.com/saint1744/saint1744/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
-# 🎯 NEXT OBJECTIVES
+# 🧠 AI Philosophy
+
+I use AI as a **development accelerator**, not as a replacement for understanding.
+
+Tools such as ChatGPT, Claude, and Gemini help me:
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                 MISSION OBJECTIVES                  ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  ✓ Build strong Python foundations                  ║
-║  ✓ Explore Data Science                             ║
-║  ✓ Study Artificial Intelligence                    ║
-║  ✓ Earn Microsoft Azure certifications              ║
-║  ✓ Build practical applications                     ║
-║                                                      ║
-║  → Deepen Machine Learning knowledge                ║
-║  → Explore Generative AI                            ║
-║  → Build more real-world projects                   ║
-║  → Strengthen Data Science skills                   ║
-║  → Grow toward AI Engineering                       ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+IDEA
+ ↓
+RESEARCH
+ ↓
+PROTOTYPE
+ ↓
+EXPERIMENT
+ ↓
+DEBUG
+ ↓
+UNDERSTAND
+ ↓
+BUILD BETTER
+```
+
+> **AI helps me move faster. Understanding helps me move forward.**
+
+---
+
+# 🎯 2026 → NEXT
+
+```text
+╔════════════════════════════════════════════════════════════╗
+║                     NEXT OBJECTIVES                        ║
+╠════════════════════════════════════════════════════════════╣
+║                                                            ║
+║  ✓ Strengthen Python                                      ║
+║  ✓ Build Data Science projects                            ║
+║  ✓ Explore Machine Learning                               ║
+║  ✓ Learn Generative AI                                    ║
+║  ✓ Improve software engineering                            ║
+║  ✓ Build real-world applications                           ║
+║                                                            ║
+║  → Advanced Machine Learning                              ║
+║  → AI Engineering                                         ║
+║  → More production-ready projects                         ║
+║  → Stronger Data Science portfolio                        ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-# 📡 ESTABLISH CONNECTION
+# 🌐 Let's Connect
 
 <p align="center">
 
@@ -564,35 +350,16 @@ These soft skills are based on the skills listed in my CV.
 
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SAHALMCPVR&label=PROFILE%20VISITORS&color=00F7FF&style=for-the-badge"/>
-
-</p>
-
 ---
 
 <p align="center">
 
-```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║            🟢 SYSTEM STATUS : ONLINE            ║
-║            🧠 NEURAL CORE   : ACTIVE             ║
-║            🤖 AI MODULES    : EVOLVING           ║
-║            🚀 MISSION       : IN PROGRESS        ║
-║                                                  ║
-║        "Always learning. Always building."       ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
+### 🚀 Building the future, one experiment at a time.
+
+**Data → Intelligence → Innovation**
 
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my digital workspace 🚀</b>
-</p>
-
-<p align="center">
-  <i>Signal maintained • Mission continues • Next experiment loading...</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:083344,100:06b6d4&height=120&section=footer" width="100%"/>
 </p>
