@@ -312,13 +312,6 @@ Current areas of practical development:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAHALMCPVR&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF"/>
 </p>
 
----
-
-# 🐍 CONTRIBUTION ACTIVITY
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saint1744/saint1744/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p>
 
 ---
 
