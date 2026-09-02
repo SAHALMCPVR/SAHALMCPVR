@@ -306,17 +306,7 @@ Current areas of practical development:
 # 📊 GITHUB COMMAND CENTER
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAHALMCPVR&theme=tokyonight" width="100%"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAHALMCPVR&theme=tokyonight" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAHALMCPVR&theme=tokyonight" height="180"/>
-
+  <img src="./assets/github-command-center.svg" alt="Live GitHub Command Center" width="100%"/>
 </p>
 
 
