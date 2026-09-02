@@ -301,22 +301,19 @@ Current areas of practical development:
 
 ---
 
-
 # 📊 GITHUB COMMAND CENTER
 
 <p align="center">
 
-<a href="https://github.com/SAHALMCPVR">
-<img src="https://img.shields.io/github/followers/SAHALMCPVR?style=for-the-badge&logo=github&label=FOLLOWERS"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAHALMCPVR&theme=tokyonight" width="100%"/>
 
-<a href="https://github.com/SAHALMCPVR?tab=repositories">
-<img src="https://img.shields.io/github/repos/SAHALMCPVR?style=for-the-badge&logo=github&label=REPOSITORIES"/>
-</a>
+</p>
 
-<a href="https://github.com/SAHALMCPVR">
-<img src="https://img.shields.io/github/stars/SAHALMCPVR?style=for-the-badge&logo=github&label=STARS"/>
-</a>
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAHALMCPVR&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAHALMCPVR&theme=tokyonight" height="180"/>
 
 </p>
 ---
