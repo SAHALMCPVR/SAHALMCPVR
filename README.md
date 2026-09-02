@@ -214,6 +214,10 @@ A healthcare-focused application designed around procurement and inventory workf
 
 ### `PYTHON AUTOMATION UTILITY`
 
+  <a href="https://qr-generator-marco.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20PROJECT-00F7FF?style=for-the-badge&labelColor=020617"/>
+  </a>
+
 A practical development project focused on generating QR codes using Python.
 
 ```text
