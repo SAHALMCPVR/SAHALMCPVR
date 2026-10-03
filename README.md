@@ -1,359 +1,115 @@
-# 🛰️ MUHAMMED SAHAL MC
+<div align="center">
+
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · sahalmcpvr</sub></p>
+<h1>muhammed sahal mc</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
+<p><sub>Based in Moonamchery Chalil,Pullavoor,NITC(PO)</sub></p>
+<p><a href="https://github.com/sahalmcpvr">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/112059733?u=bc17bc23bc9747ca07d245246d352a4f2f7ba546&amp;v=4" width="180" alt="muhammed sahal mc GitHub avatar" />
+</td>
+</tr>
+</table>
+</div>
+
+<h2>What teams can evaluate quickly</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · Python · TypeScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>58 contributions · 9 active days</p></td>
+</tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>58</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=DATA+SCIENCE+%26+AI+ENGINEERING;PYTHON+%7C+MACHINE+LEARNING+%7C+GENERATIVE+AI;BUILDING+IDEAS+INTO+TECHNOLOGY;ALWAYS+LEARNING.+ALWAYS+BUILDING." alt="Typing SVG"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="muhammed sahal mc GitHub proof metrics" />
+</picture>
 </p>
+
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&repos=sahalmcpvr%2FSOS-LMS-WEBSITE%2Csahalmcpvr%2FPYTHON%2Csahalmcpvr%2FSAHALMCPVR%2Csahalmcpvr%2FQR-Code-Generator&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&repos=sahalmcpvr%2FSOS-LMS-WEBSITE%2Csahalmcpvr%2FPYTHON%2Csahalmcpvr%2FSAHALMCPVR%2Csahalmcpvr%2FQR-Code-Generator&v=recruiter-projects-1&mode=dark" width="100%" alt="muhammed sahal mc selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/SAHALMCPVR/SOS-LMS-WEBSITE">SOS-LMS-WEBSITE</a></h3>
+<p>A selected public project.</p>
+<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/SAHALMCPVR/SOS-LMS-WEBSITE">Read the repository →</a></p>
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/SAHALMCPVR/PYTHON">PYTHON</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/SAHALMCPVR/SAHALMCPVR">SAHALMCPVR</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/SAHALMCPVR/QR-Code-Generator">QR-Code-Generator</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Technical toolkit</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:083344,100:06b6d4&height=150&section=header" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="muhammed sahal mc technology stack" />
+</picture>
 </p>
+
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>61% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>20% of public code</sub></td>
+<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>8% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>5% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>3% of public code</sub></td>
+</tr>
+</table>
+
+<h2>Consistency signal</h2>
 
 <p align="center">
-  <a href="https://github.com/SAHALMCPVR">
-    <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-  </a>
-  <a href="mailto:[mcsahalpvr@mail.com](mailto:mcsahalpvr@mail.com)">
-    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=SAHALMCPVR&label=PROFILE%20VIEWS&style=for-the-badge&color=00F7FF"/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="muhammed sahal mc contribution activity" />
+</picture>
 </p>
 
----
-
-## 🧠 ABOUT ME
-
-I'm **Muhammed Sahal MC**, an aspiring **Data Scientist & AI Engineer** interested in building practical technology with **Python, Data Science, Machine Learning, Artificial Intelligence, and Generative AI**.
-
-I'm currently developing my skills through **Data Science & AI Engineering**, hands-on projects, and practical internship experience.
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   🧠 THINK WITH DATA                                 │
-│   💻 BUILD WITH CODE                                 │
-│   🤖 EXPERIMENT WITH AI                              │
-│   🚀 TURN IDEAS INTO TECHNOLOGY                      │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
-> **AI helps me move faster. Understanding helps me move forward.**
-
----
-
-# ⚡ AT A GLANCE
-
-<p align="center">
-
-| 🎓 Education |           💼 Experience           |        🧠 Focus       |    🚀 Mission    |
-| :----------: | :-------------------------------: | :-------------------: | :--------------: |
-|    **BCA**   | **Data Science Analytics Intern** | **Data Science + AI** | **Data Science** |
-
-</p>
-
-<p align="center">
-
-`🐍 Python`   `📊 Data Science`   `🤖 AI / ML`   `✨ GenAI`   `☁️ Azure`
-
-</p>
-
----
-
-# 🚀 CURRENTLY BUILDING
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     CURRENT FOCUS                            │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🐍 Python & Problem Solving                                │
-│  📊 Data Science & Data Analysis                            │
-│  🤖 Machine Learning                                       │
-│  ✨ Generative AI                                           │
-│  ☁️ Microsoft Azure                                         │
-│  💻 Practical Software Projects                             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### 🎯 Current Objectives
-
-* Build stronger Python foundations
-* Develop practical Data Science projects
-* Explore Machine Learning
-* Experiment with Generative AI
-* Improve software engineering practices
-* Build real-world applications
-* Grow toward **AI Engineering**
-
----
-
-# 🧰 TECHNOLOGY STACK
-
-### 🐍 Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
-</p>
-
-### 📊 Data Science & AI
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
-### 🌐 Web & Application Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,django,fastapi,flask" />
-</p>
-
-### 📱 Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### 🗄️ Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" />
-</p>
-
-### ☁️ Cloud, Development & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode,androidstudio" />
-</p>
-
----
-
-# 🤖 AI TOOLKIT
-
-AI is part of my development workflow — from research and brainstorming to prototyping, debugging, and experimentation.
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-0F172A?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Claude-0F172A?style=for-the-badge&logo=anthropic&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Gemini-0F172A?style=for-the-badge&logo=google&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/Generative%20AI-0F172A?style=for-the-badge&logo=googlegemini&logoColor=00F7FF"/>
-
-</p>
-
-```text
-IDEA
- ↓
-RESEARCH
- ↓
-PROTOTYPE
- ↓
-EXPERIMENT
- ↓
-DEBUG
- ↓
-UNDERSTAND
- ↓
-BUILD
-```
-
-> I use AI as a tool to **learn faster, experiment faster, and build better**.
-
----
-
-# 🚀 FEATURED PROJECTS
-
-## 🥗 FreshSave
-
-### `SMART KITCHEN & FOOD WASTE REDUCTION`
-
-FreshSave is a smart kitchen project focused on helping households make better use of ingredients already available in their pantry.
-
-<p align="center">
-  <a href="https://freshsave-ai.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20LIVE%20PROJECT-00F7FF?style=for-the-badge&labelColor=020617"/>
-  </a>
-  <a href="https://github.com/SAHALMCPVR/FreshSave">
-    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-FFFFFF?style=for-the-badge&labelColor=020617"/>
-  </a>
-</p>
-
-> **Cook smarter. Waste less.**
-
----
-
-## 🏥 ClinicMart
-
-### `B2B HEALTHCARE PROCUREMENT & INVENTORY`
-
-A healthcare-focused application designed around procurement and inventory workflows.
-
-**Core Technologies**
-
-`Flutter` · `Riverpod` · `OpenStreetMap`
-
-**Highlights**
-
-* 📱 Healthcare procurement workflows
-* 📦 Inventory management
-* 🔄 Riverpod state management
-* 🗺️ OpenStreetMap geocoding
-* 🤖 AI-assisted development
-* ⚡ Rapid application prototyping
-
----
-
-## 🔳 QR Code Generator
-
-### `PYTHON AUTOMATION UTILITY`
-<p align="center">
-  <a href="https://qr-generator-marco.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐%20LIVE%20PROJECT-00F7FF?style=for-the-badge&labelColor=020617"/>
-  </a>
-  <a href="https://github.com/SAHALMCPVR/QR-Code-Generator">
-    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-FFFFFF?style=for-the-badge&labelColor=020617"/>
-  </a>
-</p>
-
-
-A practical development project focused on generating QR codes using Python.
-
-```text
-PYTHON
-   ↓
-AUTOMATION
-   ↓
-QR GENERATION
-   ↓
-UTILITY
-```
-
----
-
-# 🧪 WHAT I BUILD
-
-<p align="center">
-
-|      🧠 AI      |    📊 DATA    | 💻 SOFTWARE |     ⚙️ AUTOMATION     |
-| :-------------: | :-----------: | :---------: | :-------------------: |
-| AI Applications | Data Analysis |   Web Apps  |    Developer Tools    |
-|  ML Experiments |  Data Science | Mobile Apps |    Python Utilities   |
-|  GenAI Projects | Visualization |     APIs    | AI-assisted Workflows |
-
-</p>
-
-My goal isn't simply to create repositories.
-
-It's to **experiment, solve problems, understand the technology, and turn ideas into useful projects.**
-
----
-
-# 🏆 CERTIFICATION VAULT
-
-### Microsoft Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PL--900-Power%20Platform%20Fundamentals-742774?style=for-the-badge&logo=microsoftpowerplatform&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SC--900-Security%20Compliance%20%26%20Identity-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-</p>
-
-| Certification | Focus                                        |
-| ------------- | -------------------------------------------- |
-| **AZ-900**    | Microsoft Azure Fundamentals                 |
-| **AI-900**    | Azure AI Fundamentals                        |
-| **DP-900**    | Azure Data Fundamentals                      |
-| **PL-900**    | Power Platform Fundamentals                  |
-| **SC-900**    | Security, Compliance & Identity Fundamentals |
-
----
-
-# 💼 EXPERIENCE
-
-### Data Science Analytics Intern
-
-**SOS School of Skills, Calicut**
-
-`2026 — Present`
-
-Current areas of practical development:
-
-`Python` · `Data Science` · `Jupyter` · `Git & GitHub` · `Problem Solving` · `Documentation`
-
----
-
-
-
-# 🎯 2026 OBJECTIVES
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                       MISSION 2026                         ║
-╠════════════════════════════════════════════════════════════╣
-║                                                            ║
-║  ✓ Strengthen Python                                      ║
-║  ✓ Build Data Science projects                            ║
-║  ✓ Explore Machine Learning                               ║
-║  ✓ Experiment with Generative AI                          ║
-║  ✓ Improve development skills                              ║
-║                                                            ║
-║  → Build production-ready applications                    ║
-║  → Go deeper into AI / ML                                 ║
-║  → Create stronger real-world projects                    ║
-║  → Grow toward AI Engineering                             ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
-```
-
----
-
-# 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://github.com/SAHALMCPVR">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=00F7FF"/>
-</a>
-
-<a href="mailto:[mcsahalpvr@mail.com](mailto:mcsahalpvr@mail.com)">
-<img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:083344,100:06b6d4&height=120&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-
-### 🛰️ SYSTEM STATUS: ONLINE
-
-`DATA → INTELLIGENCE → INNOVATION`
-
-**Always learning. Always building. 🚀**
-
-</p>
-
-
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/sahalmcpvr">GitHub</a></td>
+</tr>
+</table>
+
+<p align="center"><sub>muhammed sahal mc · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
