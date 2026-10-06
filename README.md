@@ -1,115 +1,309 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · sahalmcpvr</sub></p>
-<h1>muhammed sahal mc</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Moonamchery Chalil,Pullavoor,NITC(PO)</sub></p>
-<p><a href="https://github.com/sahalmcpvr">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/112059733?u=bc17bc23bc9747ca07d245246d352a4f2f7ba546&amp;v=4" width="180" alt="muhammed sahal mc GitHub avatar" />
-</td>
-</tr>
-</table>
+# ⚡ MUHAMMED SAHAL M.C
+
+### AI & Data Science Engineer • Python Developer • AI Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+systems;Data+Science+%7C+Machine+Learning;Python+%7C+FastAPI+%7C+React+%7C+Flutter;Turning+ideas+into+working+software" />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-sahalmcpvr.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SAHALMCPVR)
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Jupyter Notebook · Python · TypeScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>5 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>58 contributions · 9 active days</p></td>
-</tr>
-</table>
+## 🧠 SYSTEM PROFILE
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                    SAHAL // AI ENGINEER                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  🎓 Background     BCA — AI, ML, Robotics & IoT             │
+│  🧠 Focus          Data Science & Artificial Intelligence    │
+│  💻 Primary        Python                                   │
+│  ⚙️ Backend        FastAPI • Django • Flask                 │
+│  🎨 Frontend       React • HTML • CSS                        │
+│  📱 Mobile         Flutter • Dart                            │
+│  🗄️ Databases      MongoDB • PostgreSQL                     │
+│  📊 Data           Pandas • NumPy • Matplotlib • Seaborn     │
+│  🤖 AI             Machine Learning • LLMs • AI Agents       │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<h2>Proof at a glance</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>5</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>58</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+## 🚀 CURRENT MISSION
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="muhammed sahal mc GitHub proof metrics" />
-</picture>
+I'm focused on building practical systems at the intersection of:
+
+**Artificial Intelligence + Data Science + Software Engineering**
+
+My current interests include:
+
+- 🤖 AI Agents & Multi-Agent Systems
+- 🧠 Machine Learning
+- 📊 Data Analysis & Visualization
+- 🐍 Python Development
+- 🔌 REST APIs & Backend Systems
+- 🗄️ Data Engineering & Databases
+- 🌐 Full-Stack Applications
+- 🧩 LLM Applications & RAG
+- ⚡ AI-powered automation
+
+---
+
+# 🛠️ TECHNOLOGY STACK
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,dart,html,css" />
 </p>
 
-<h2>Selected work</h2>
+### AI / Data Science
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&repos=sahalmcpvr%2FSOS-LMS-WEBSITE%2Csahalmcpvr%2FPYTHON%2Csahalmcpvr%2FSAHALMCPVR%2Csahalmcpvr%2FQR-Code-Generator&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&repos=sahalmcpvr%2FSOS-LMS-WEBSITE%2Csahalmcpvr%2FPYTHON%2Csahalmcpvr%2FSAHALMCPVR%2Csahalmcpvr%2FQR-Code-Generator&v=recruiter-projects-1&mode=dark" width="100%" alt="muhammed sahal mc selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/SAHALMCPVR/SOS-LMS-WEBSITE">SOS-LMS-WEBSITE</a></h3>
-<p>A selected public project.</p>
-<p><sub>Python · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/SAHALMCPVR/SOS-LMS-WEBSITE">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/SAHALMCPVR/PYTHON">PYTHON</a></h3><p>A selected public project.</p><p><sub>Jupyter Notebook · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/SAHALMCPVR/SAHALMCPVR">SAHALMCPVR</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/SAHALMCPVR/QR-Code-Generator">QR-Code-Generator</a></h3><p>A selected public project.</p><p><sub>JavaScript · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="muhammed sahal mc technology stack" />
-</picture>
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Jupyter Notebook</strong><br /><sub>61% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>20% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>8% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>5% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>3% of public code</sub></td>
-</tr>
-</table>
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Scikit-learn`
 
-<h2>Consistency signal</h2>
+### Backend
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=sahalmcpvr&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F112059733%3Fu%3Dbc17bc23bc9747ca07d245246d352a4f2f7ba546%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="muhammed sahal mc contribution activity" />
-</picture>
+<p>
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,nodejs,express" />
 </p>
 
-<hr />
+### Frontend & Mobile
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/sahalmcpvr">GitHub</a></td>
-</tr>
-</table>
+<p>
+<img src="https://skillicons.dev/icons?i=react,flutter,vite,tailwind" />
+</p>
 
-<p align="center"><sub>muhammed sahal mc · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker" />
+</p>
+
+---
+
+# 🤖 AI TOOLKIT
+
+```text
+LLM / AI
+├── GPT
+├── Claude
+├── Gemini
+├── DeepSeek
+├── Mistral
+├── Groq
+└── Ollama
+
+AI Infrastructure
+├── RAG
+├── Vector Search
+├── Knowledge Graphs
+├── Multi-Agent Systems
+└── AI Automation
+```
+
+---
+
+# 🔥 FEATURED PROJECTS
+
+## 🧠 MARCO
+
+**Personal AI Assistant & Agentic Intelligence System**
+
+A large-scale personal AI system designed around:
+
+- Multi-agent architecture
+- AI model orchestration
+- Knowledge graphs
+- Event-driven architecture
+- AI tool integration
+- Automation
+- Real-world data sources
+
+**Focus:** `AI Agents` `LLMs` `Automation` `Knowledge Graphs`
+
+---
+
+## 🏥 ClinicMart
+
+**B2B Healthcare Procurement & Inventory Application**
+
+Built with:
+
+- Flutter
+- Dart
+- Riverpod
+- REST APIs
+- MongoDB
+- OpenStreetMap
+
+**Focus:** `Flutter` `Backend APIs` `Healthcare` `Inventory`
+
+---
+
+## 🌱 FreshSave AI
+
+**AI-powered food-saving application**
+
+A project focused on using AI and software to help users manage food and reduce waste.
+
+**Tech:** `Python` `AI` `Web Development`
+
+🔗 https://freshsave-ai.vercel.app/
+
+---
+
+## 💬 Cipher Anonymous
+
+**Anonymous Real-Time Communication Platform**
+
+Built around:
+
+- FastAPI
+- MongoDB
+- JWT authentication
+- Socket.IO
+- Real-time communication
+
+**Focus:** `FastAPI` `MongoDB` `WebSockets` `Authentication`
+
+---
+
+# 📊 DATA SCIENCE
+
+Currently working with the complete data-analysis workflow:
+
+```text
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Exploratory Data Analysis
+   ↓
+Visualization
+   ↓
+Feature Engineering
+   ↓
+Machine Learning
+   ↓
+Evaluation
+   ↓
+Insights / Prediction
+```
+
+### Current Data Science Tools
+
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
+
+---
+
+# 🏆 CERTIFICATIONS
+
+- Microsoft Azure AI Fundamentals — AI-900
+- Microsoft Azure Fundamentals — AZ-900
+- Microsoft Azure Data Fundamentals — DP-900
+- Microsoft Power Platform Fundamentals — PL-900
+- Microsoft Security, Compliance & Identity Fundamentals — SC-900
+
+---
+
+# 📈 GITHUB INTELLIGENCE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SAHALMCPVR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAHALMCPVR&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=SAHALMCPVR&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION MATRIX
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/SAHALMCPVR/SAHALMCPVR/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+# 🌌 BUILD PHILOSOPHY
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I believe the best way to learn technology is to build systems that are slightly too ambitious.
+
+Sometimes they work.
+
+Sometimes they explode.
+
+Both are educational.
+
+---
+
+# 🎯 CURRENTLY BUILDING
+
+```text
+[████████████████████████████████████] 100%
+
+MARCO AI
+├── Agent Architecture
+├── AI Model Integration
+├── Tool Orchestration
+├── Knowledge Systems
+├── Automation
+└── Real-world Intelligence
+
+STATUS: ACTIVE DEVELOPMENT
+```
+
+---
+
+# 📫 CONNECT
+
+<div align="center">
+
+### Let's build something intelligent.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-00F7FF?style=for-the-badge)](https://portfolio-sahalmcpvr.vercel.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-SAHALMCPVR-black?style=for-the-badge&logo=github)](https://github.com/SAHALMCPVR)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ SYSTEM STATUS: ONLINE
+
+<img src="https://komarev.com/ghpvc/?username=SAHALMCPVR&style=for-the-badge&color=00F7FF" />
+
+**Built with curiosity, Python, and an unreasonable number of GitHub repositories.**
+
+</div>
